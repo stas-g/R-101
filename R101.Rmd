@@ -1,6 +1,8 @@
 ---
 title: "R 101, v2"
-output: html_document
+output: 
+  rmarkdown::github_document
+# output: html_document
 author: Nastasiya F. Grinberg 
 date: '03-12-2025'
 ---
